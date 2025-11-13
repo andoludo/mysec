@@ -49,14 +49,14 @@ test = ["coverage", "mypy", "pexpect", "ruff", "wheel"]
 
 [[package]]
 name = "bearishpy"
-version = "0.39.0"
+version = "0.41.0"
 description = ""
 category = "main"
 optional = false
 python-versions = "<3.13,>=3.11"
 files = [
-    {file = "bearishpy-0.39.0-py3-none-any.whl", hash = "sha256:637db2cdb8ca198c3977be6a8fc5b67f8bf3a9b95a216f7a5748e2b3bbf45b3e"},
-    {file = "bearishpy-0.39.0.tar.gz", hash = "sha256:87c13d2e309faf7a86590bbc0e9e9d1b5ac41667ab23390a5f17d5733e67b135"},
+    {file = "bearishpy-0.41.0-py3-none-any.whl", hash = "sha256:1d44d1b3f3093929629a7be5b8354d0641fe68a6e041e48c1f1a753a5fa094ec"},
+    {file = "bearishpy-0.41.0.tar.gz", hash = "sha256:69dfd974559e412ee08fe608fc8c90efe7896bad7d9d5863b9502b5d60c6269b"},
 ]
 
 [package.dependencies]
@@ -2345,4 +2345,4 @@ repair = ["scipy (>=1.6.3)"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.11,<3.13"
-content-hash = "2a3aeb16b5712872cc1586bed710ea276c85594bd3890705582a833a67fc10d2"
+content-hash = "b4b3e2b53364e1e0266afff8d8c217c4acab9e5e05ad79bd511a587335e5ad4a"
